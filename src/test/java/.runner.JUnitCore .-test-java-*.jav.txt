@@ -1,2 +1,0 @@
-.runner.JUnitCore ./test/java/*.java
-java RunEdgeConvert
